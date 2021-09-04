@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\DAO.dll
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\DAO.pdb
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+c:\users\admin\documents\visual studio 2012\Projects\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
